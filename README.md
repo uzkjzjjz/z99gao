@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @z99gao 
+- 👋 مرحبًا ، أنا @ z99gao
 - 👀 I’m interested in ...Self development 
 - 🌱 I’m currently learning ...free software 
 - 💞️ I’m looking to collaborate on ...pocket community 
